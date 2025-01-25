@@ -25,5 +25,5 @@ A simple and interactive random password generator application built using Pytho
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/random-password-generator-tkinter.git
+   git clone https://github.com/husemyunso/random-password-generator-tkinter.git
    cd random-password-generator-tkinter
