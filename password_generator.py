@@ -42,7 +42,7 @@ def generate_password():
 # Tkinter Setup
 root = tk.Tk()
 root.title("Random Password Generator")
-root.geometry("400x350")
+root.geometry("400x400")
 root.configure(bg="lightblue")
 
 # Title
@@ -87,7 +87,7 @@ label_result = tk.Label(root, text="", font=("Arial", 10), bg="lightblue")
 label_result.pack()
 
 # Footer
-label_footer = tk.Label(root, text="Created with ❤️ using Tkinter", font=("Arial", 10), bg="lightblue")
+label_footer = tk.Label(root, text="Created with ❤️by Husem", font=("Arial", 10), bg="lightblue")
 label_footer.pack(side="bottom", pady=10)
 
 root.mainloop()
